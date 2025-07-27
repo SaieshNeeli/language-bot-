@@ -1,0 +1,9 @@
+# Core libraries
+nest_asyncio==1.5.9
+deep-translator==1.11.4
+
+# Telegram bot library
+python-telegram-bot==20.8
+
+# Optional: for managing environment variables
+python-dotenv==1.0.1
